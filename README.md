@@ -62,9 +62,9 @@ python scripts/train_model.py
 
 ---
  👨‍💻 Contributors
-- Matthews Victoria Olayide - Lead Developer & Researcher
+- Matthews Victoria Olayide - Researcher
 - Dr. B.I. Ayinla - Project Supervisor
-- Dr. Taiwo (Department of Urban & Regional Planning) - Data Provider
+- Dr. Taiwo (Department of Urban & Regional Planning)
 
 
 For questions or collaborations, reach out via:
